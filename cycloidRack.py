@@ -19,12 +19,12 @@ import numpy as np
 #import csv
 import ezdxf
 
-# Variable Parameters to be input
-pitchDiameter = 90 # Diameter of the rolling circle
-rollerDiameter = 22 # Diameter of a smaller circle centered on the focal point of the rolling circle
-noOfRollers = 7 # number of rollers (teeth) in pinion
-noOfTeeth = 14 # desired number of teeth in rack assembly
-webThickness = 10 # distance from center of roller at lowest point, and bottom edge of rack
+# # Variable Parameters to be input
+# pitchDiameter = 90 # Diameter of the rolling circle
+# rollerDiameter = 22 # Diameter of a smaller circle centered on the focal point of the rolling circle
+# noOfRollers = 7 # number of rollers (teeth) in pinion
+# noOfTeeth = 14 # desired number of teeth in rack assembly
+# webThickness = 10 # distance from center of roller at lowest point, and bottom edge of rack
 
 
 # Variable Parameters to be input
